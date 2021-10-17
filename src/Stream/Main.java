@@ -8,7 +8,6 @@ public class Main {
         Scanner r = new Scanner(System.in);
         String test = r.nextLine();
 
-
         try (FileOutputStream fos = new FileOutputStream("test.txt");   // файловый поток вывода
              BufferedOutputStream bos = new BufferedOutputStream(fos)) {  // создаем буферизированный поток и берем имя файла куда писать будем
 
