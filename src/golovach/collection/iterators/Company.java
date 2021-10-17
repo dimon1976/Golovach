@@ -1,4 +1,4 @@
-package collections.iterators;
+package golovach.collection.iterators;
 
 import java.util.Iterator;
 

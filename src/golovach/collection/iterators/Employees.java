@@ -1,4 +1,4 @@
-package collections.iterators;
+package golovach.collection.iterators;
 
 public class Employees {
     private String name;

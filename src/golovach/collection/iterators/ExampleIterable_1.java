@@ -1,4 +1,4 @@
-package collections.iterators;
+package golovach.collection.iterators;
 
 public class ExampleIterable_1 {
     public static void main(String[] args) {
